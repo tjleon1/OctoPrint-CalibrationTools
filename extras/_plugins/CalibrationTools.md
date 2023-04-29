@@ -38,14 +38,14 @@ compatibility:
 
 ---
 
-A set of tools to help users with calibration process.
+A set of tools to help users with the calibration process.
 Supported tunings:
 
-- E Steps - calibrating number of steps/mm for E extruder;
-- XYZ Steps - calibrating number of steps/mm for axes X, Y and Z;
-- PID Auto-tune - calibration Proportional gain, Integral gain and Derivative values for hot-end and heated bed;
+- E Steps - calibrating the number of steps/mm for E extruder;
+- XYZ Steps - calibrating the number of steps/mm for axes X, Y and Z;
+- PID Auto-tune - calibration of Proportional gain, Integral gain and Derivative values for hot-end and heated bed;
 
-Before start using this plugin I strongly recommend reading some documentation about tunning [teachingtechyt.github.io](https://teachingtechyt.github.io/calibration.html){:target="_blank"}
+Before start using this plugin I strongly recommend reading some documentation about tuning [teachingtechyt.github.io](https://teachingtechyt.github.io/calibration.html){:target="_blank"}
 
 ## Supported frameworks
 
